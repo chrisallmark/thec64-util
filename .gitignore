@@ -1,0 +1,15 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+*.7z
+*.zip
+C64 Dreams/
+CSDB Demos Jan2020/
+OneLoad64-Games-Collection-v5/
+THEC64/
+
+# misc
+.DS_Store
+
+# other
+.claude
+.vscode
